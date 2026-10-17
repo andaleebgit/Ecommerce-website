@@ -1,0 +1,5 @@
+node_modules/
+shop.sqlite
+shop.sqlite-shm
+shop.sqlite-wal
+.env
